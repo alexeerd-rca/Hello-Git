@@ -10,3 +10,9 @@ Underline 1
 
 Underline 2
 ===========
+- formato *italica* de la primer forma.
+- formato _italica_ de la segunda forma.
+- formto **bold o strong** de la primer forma.
+- formato __bols o strong__ de la segunda forma.
+- formato ~~tachado~~, formato normal.
+- aqui podemos usar formato *italico*, pero también **bold** y ~~tachado~~. 
